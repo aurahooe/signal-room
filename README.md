@@ -1,2 +1,3 @@
-# signal-room
-Signal Room — a living hourly desk. Public slips, private drawers, a new edition on the hour.
+# Signal Room
+
+A living desk. A new edition every hour. Public slips sit on the table; private ones stay in your drawer.
